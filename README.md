@@ -46,7 +46,7 @@ Este projeto foi desenvolvido como parte do programa de ensino gratuito da Oracl
 3. Navegue até o diretório do projeto:
 
     ```bash
-    cd conversor-de-moedas-java
+    cd conversorDeMoedas
     ```
 
 ## Uso
