@@ -40,7 +40,7 @@ Este projeto foi desenvolvido como parte do programa de ensino gratuito da Oracl
 2. Clone este repositório para o seu computador:
 
     ```bash
-    git clone https://github.com/seu-usuario/conversor-de-moedas-java.git
+    git clone https://github.com/seu-usuario/conversorDeMoedas.git
     ```
 
 3. Navegue até o diretório do projeto:
